@@ -1,0 +1,2 @@
+[console_scripts]
+llmredteam = llmredteam.cli:main
